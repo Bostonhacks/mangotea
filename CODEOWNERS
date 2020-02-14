@@ -1,0 +1,10 @@
+# Below is a list of Mangotea team members who are suggested reviewers
+# for contributions to plugins in this repository.
+#
+# These names are just suggestions. It is fine to have your changes
+# reviewed by someone else.
+
+functions/userFunctions/* @rishabnayak @asifrahman479
+functions/index.js @rishabnayak @asifrahman479
+firestore.rules @rishabnayak @asifrahman479
+src/* @rishabnayak @asifrahman479
