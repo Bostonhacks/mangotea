@@ -2,6 +2,9 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+// TODO: Set up react router
+//       Work on About/Contact and Organizer pages
+
 function App() {
   return (
     <div className="App">
