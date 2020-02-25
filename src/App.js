@@ -1,29 +1,46 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import logo from './logo.svg'
+import './App.css'
+import {
+  Route,
+  Switch,
+  BrowserRouter as Router,
+  Link,
+} from 'react-router-dom'
+
+import './styles/Router.css'
+
+import Home from './pages/Home'
 
 // TODO: Set up react router
 //       Work on About/Contact and Organizer pages
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="router-div">
+        <ul>
+          <li>
+            <img src={logo} className="App-logo" alt="logo"/>
+          </li>
+          <li>
+            <Link to="/">Home</Link>
+          </li>
+          <li>
+            <Link to="/about">About</Link>
+          </li>
+          <li>
+            <Link to="/contact">Contact</Link>
+          </li>
+        </ul>
+        <Switch>
+          <Route exact path="/" component={Home}/>
+          <Route path="/about" component={Home}/>
+          <Route path="/contact" component={Home}/>
+        </Switch>
+      </div>
+    </Router>
   );
 }
 
-export default App;
+export default (App)
