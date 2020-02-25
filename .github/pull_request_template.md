@@ -26,5 +26,5 @@ Did any tests fail when you ran them? Please read [Handling breaking changes].
   - [ ] I wrote a migration guide: *Replace with a link to your migration guide*
 
 <!-- Links -->
-[issue database]: https://github.com/bostonhacks/cacioepepe/issues
-[Contributor Guide]: https://github.com/bostonhacks/cacioepepe/blob/master/CONTRIBUTING.md
+[issue database]: https://github.com/bostonhacks/mangotea/issues
+[Contributor Guide]: https://github.com/bostonhacks/mangotea/blob/master/CONTRIBUTING.md
