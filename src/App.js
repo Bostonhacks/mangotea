@@ -8,6 +8,7 @@ import {
   Link,
 } from 'react-router-dom'
 
+
 import './styles/Router.css'
 
 import Home from './pages/Home'
@@ -33,15 +34,19 @@ function App() {
           <li>
             <Link to="/contact">Contact</Link>
           </li>
+
           <li>
             <Link to="/organizer">Organizers</Link>
           </li>
+
         </ul>
         <Switch>
           <Route exact path="/" component={Home}/>
           <Route path="/about" component={Home}/>
           <Route path="/contact" component={Home}/>
+
           <Route path="/organizer" component={Organizer}/>
+
         </Switch>
       </div>
     </Router>
