@@ -1,0 +1,77 @@
+.organizer-list-container {
+    padding: 10px 150px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.organizerBlock-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.organizer-image {
+    border-radius: 50%;
+    width: 100px;
+}
+
+.organizer-headshot-div {
+    margin: auto;
+}
+
+.organizer {
+    margin: 0
+}
+
+
+.organizerBlock-content {
+    box-shadow: 5px 7px 17px 0px grey;
+    padding: 24px;
+    width: 150px;
+    height: 200px;
+    text-align: center;
+}
+
+.organizerBlock-container {
+    padding: 24px;
+    width: 20%;
+    margin: auto;
+}
+
+.committee-header {
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .organizer-list-container {
+        padding: 10px 10px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .organizerBlock-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .organizer-image {
+        border-radius: 50%;
+        width: 50%;
+    }
+
+    .organizer {
+        margin: 0
+    }
+
+
+    .organizerBlock-content {
+        box-shadow: 5px 7px 17px 0px grey;
+        padding: 0px;
+    }
+
+    .organizerBlock-container {
+        padding: 24px;
+        width: 20%;
+        margin: auto;
+    }
+}

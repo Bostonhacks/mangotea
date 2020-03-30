@@ -8,9 +8,10 @@ import {
   Link,
 } from 'react-router-dom'
 
-import './pages/Home/styles/index.css'
+import './styles/Router.css'
 
-import Home from './pages/Home/components/Home'
+import Home from './pages/Home'
+import Organizer from './pages/Organizer'
 
 // TODO: Set up react router
 //       Work on About/Contact and Organizer pages
@@ -32,11 +33,15 @@ function App() {
           <li>
             <Link to="/contact">Contact</Link>
           </li>
+          <li>
+            <Link to="/organizer">Organizers</Link>
+          </li>
         </ul>
         <Switch>
           <Route exact path="/" component={Home}/>
           <Route path="/about" component={Home}/>
           <Route path="/contact" component={Home}/>
+          <Route path="/organizer" component={Organizer}/>
         </Switch>
       </div>
     </Router>

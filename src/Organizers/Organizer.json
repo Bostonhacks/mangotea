@@ -1,0 +1,210 @@
+{
+    "director" :[
+        {
+            "name": "Jennifer Roh",
+            "committee": "Director",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        }
+    ],
+    "logistics" : [
+        {
+            "name": "Chris Chang",
+            "committee": "Logistics Director",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Tin Nguyen",
+            "committee": "Logistics Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Jason Li",
+            "committee": "Logistics Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Blake Abel",
+            "committee": "Logistics Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Bingyi Zeng",
+            "committee": "Logistics Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Rebecca Chang",
+            "committee": "Logistics Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Charles Ma",
+            "committee": "Logistics Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        }
+    ],
+    "marketing" : [
+        {
+            "name": "Jennifer Kim",
+            "committee": "Marketing Director",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Hany Jasmine",
+            "committee": "Marketing Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Angela Tran",
+            "committee": "Marketing Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Melissa Lin",
+            "committee": "Marketing Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Emily Bowen",
+            "committee": "Marketing Committee (Graphic Design)",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Hannah Hong",
+            "committee": "Marketing Committee (Graphic Design)",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Eveylin Bi",
+            "committee": "Marketing Committee (Graphic Design)",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Angela Dong",
+            "committee": "Marketing Committee (Graphic Design)",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        }
+    ],
+    "technology" : [
+        {
+            "name": "Rishab Nayak",
+            "committee": "Tech Director",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Michael Hendrik",
+            "committee": "Tech Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Asif Rahman",
+            "committee": "Tech Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Jin Young Bang",
+            "committee": "Tech Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Rudhra Raveendran",
+            "committee": "Tech Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Jason kim",
+            "committee": "Tech Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Jordan Nicolas",
+            "committee": "Tech Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "John Chai",
+            "committee": "Tech Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Jun Yue Feng",
+            "committee": "Tech Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Yunhan Huang",
+            "committee": "Tech Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Xavier Ruiz",
+            "committee": "Tech Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Claire Choi",
+            "committee": "Tech Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        }
+    ],
+    "sponsorship" : [
+        {
+            "name": "Nikita Jakkam",
+            "committee": "Sponsorship Director",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Shimli Satpathy",
+            "committee": "Sponsorship Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Jeffery Hsu",
+            "committee": "Sponsorship Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Vivian Cheung",
+            "committee": "Sponsorship Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        },
+        {
+            "name": "Roger Ramesh",
+            "committee": "Sponsorship Committee",
+            "link": "https://github.com",
+            "image": "turtle.jpg"
+        }
+    ]
+}
