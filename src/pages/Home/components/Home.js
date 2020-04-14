@@ -69,14 +69,14 @@ function Home() {
 							{/* <div class="card-columns"></div> */}
 							<div class="row">
 								<div class="col-sm-3">
-									<div style={{backgroundColor: "white", boxShadow: "5px 1px 17px 0px grey", padding: "40px", margin: "10px"}}>
+									<div style={{backgroundColor: "white", boxShadow: "5px 1px 17px 0px grey", padding: "40px", marginBottom: "10px"}}>
                     <h3> 485</h3>
                     <p>attendies</p>
                   </div>
 								</div>
 								
 								<div class="col-sm-9" >
-									<div style={{backgroundColor: "white", boxShadow: "5px 7px 17px 0px grey", padding: "24px", margin:"10px"}}>
+									<div style={{backgroundColor: "white", boxShadow: "5px 7px 17px 0px grey", padding: "24px", marginBottom:"10px"}}>
                     <h3>Prizes:</h3>
                     <p>Apple Airpods, Google Pixel Buds, Drones, Google Home Minis, Amazon Giftcards, 
                       Amazon Echos, Cash, MiP Robots, Spark Fellowship, Raspberry Pis, Dragonboards. 
@@ -94,8 +94,8 @@ function Home() {
                   </div>
 								</div>
 
-								<div class="col-sm-3" style={{backgroundColor: "white", boxShadow: "5px 1px 17px 0px grey", padding: "24px", margin: ""}}>
-									<div>
+								<div class="col-sm-3">
+									<div style={{backgroundColor: "white", boxShadow: "5px 1px 17px 0px grey", padding: "24px", margin: ""}}>
                     <p>See the projects on <a href="https://bostonhacks-f17.devpost.com/">Devpost</a></p>
                   </div>
 								</div>
@@ -103,7 +103,7 @@ function Home() {
 
 							<div class="row">
 								<div class="col-sm-12" >
-									<div style={{backgroundColor: "white", boxShadow: "5px 1px 17px 0px grey", padding: "24px", margin: "10px"}}>
+									<div style={{backgroundColor: "white", boxShadow: "5px 1px 17px 0px grey", padding: "24px", marginTop: "10px"}}>
                     <h3>Organizers</h3>
                     <p> Andrew Hoang, Anna Goncharova, Brandon Ng, Mark Bestavros, Katie Quirk, Rudhra Raveendran, 
                       Ken Garber, Sean Zhang, Charles Ma, Warren Partridge, Mariana Garces Dematté, Ibrahim Shaikh, 
