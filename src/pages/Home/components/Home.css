@@ -21,23 +21,23 @@ a {
 }
 
 .design {
-		/* box-shadow: 1px 1px 1px 0px grey; */
+		box-shadow: 1px 1px 1px 0px grey;
 		background-color: aliceblue;
-		/* box-sizing: relative; */
-		/* width: 30%; */
-		/* padding: 14px; */
+		box-sizing: relative; 
+		width: 30%; 
+		padding: 14px; 
 		 
-		/* width: 150px;
-		height: 200px; */
+		width: 150px;
+		height: 200px;
 		
-		/* margin: 10px; */
+		margin: 10px;
 
-		/* @media only screen and (max-width: 600px) {
+		@media only screen and (max-width: 600px) {
 			body {
 			  text-align: center;
 			  
 			}
-		  } */
+		  }
 	
 }
 
