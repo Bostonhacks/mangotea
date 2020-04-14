@@ -10,6 +10,12 @@ import {
 import './styles/Router.css'
 import './pages/Home/components/Home.css'
 import Home from './pages/Home/components/Home'
+
+
+
+import './styles/Router.css'
+
+import Home from './pages/Home'
 import Organizer from './pages/Organizer'
 
 // TODO: Set up react router
