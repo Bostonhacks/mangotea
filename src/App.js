@@ -42,7 +42,6 @@ function App() {
           <Route exact path="/" component={Home}/>
           <Route path="/about" component={Home}/>
           <Route path="/contact" component={Home}/>
-
           <Route path="/organizer" component={Organizer}/>
 
         </Switch>
