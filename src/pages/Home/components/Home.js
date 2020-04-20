@@ -2,7 +2,7 @@ import React from 'react';
 import pinata from "./pinata.jpg";
 import location_fall_2017 from "./location_fall_2017.jpg";
 import highlight_fall_2017 from "./highlight_fall_2017.jpg";
-import organizers from "./organizers.png";
+// import organizers from "./organizers.png";
 
 import './Home.css';
 // import card from "./card.js";
@@ -26,8 +26,6 @@ function Home() {
 					<div class="row">
 						<div class="col-sm-3" >
 							<h2>BostonHacks Three</h2>
-
-
 							<div id="demo" class="carousel slide" data-ride="carousel">
 								{/* <!-- Indicators --> */}
 								<ul class="carousel-indicators">
@@ -45,7 +43,7 @@ function Home() {
 										<img class="d-block w-100" src={highlight_fall_2017} alt="Second slide"/>
 									</div>
 									<div class="carousel-item">
-										<img class="d-block w-100" src={organizers} alt="Third slide"/>
+										{/* <img class="d-block w-100" src={organizers} alt="Third slide"/> */}
 									</div>
 								</div>
 
