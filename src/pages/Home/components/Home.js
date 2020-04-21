@@ -118,6 +118,7 @@ function Home() {
 				</div> {/* container-fluid text-center */}		
 		</div> //main-content
 		  
+		  
     )
 }
 
