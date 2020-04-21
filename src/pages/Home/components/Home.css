@@ -21,6 +21,10 @@ a {
 }
 
 .design {
+		/* box-shadow: 5px 7px 17px 0px grey;
+		background-color: aliceblue; */
+		/* width: 30%; */
+		/* padding: 14px; */
 		box-shadow: 1px 1px 1px 0px grey;
 		background-color: aliceblue;
 		box-sizing: relative; 
