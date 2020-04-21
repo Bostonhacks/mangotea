@@ -7,11 +7,9 @@ import {
   BrowserRouter as Router,
   Link,
 } from 'react-router-dom'
-
-
 import './styles/Router.css'
-
-import Home from './pages/Home'
+import './pages/Home/components/Home.css'
+import Home from './pages/Home/components/Home'
 import Organizer from './pages/Organizer'
 
 // TODO: Set up react router
@@ -44,7 +42,6 @@ function App() {
           <Route exact path="/" component={Home}/>
           <Route path="/about" component={Home}/>
           <Route path="/contact" component={Home}/>
-
           <Route path="/organizer" component={Organizer}/>
 
         </Switch>

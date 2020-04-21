@@ -1,0 +1,47 @@
+.pinata {
+	/* text-align: center; */
+	padding-top: 100px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	
+}
+
+#button {
+	background-color: black;
+	width: 250px;
+	height:50px;
+}
+
+
+.main-content {
+	text-align: center;
+}
+
+.design {
+		box-shadow: 1px 1px 1px 0px grey;
+		background-color: aliceblue;
+		box-sizing: relative; 
+		width: 30%; 
+		padding: 14px; 
+		 
+		width: 150px;
+		height: 200px;
+		
+		margin: 10px;
+
+		@media only screen and (max-width: 600px) {
+			body {
+			  text-align: center;
+			  
+			}
+		  }
+	
+}
+
+
+
+
+
