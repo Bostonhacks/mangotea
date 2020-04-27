@@ -23,7 +23,7 @@
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 850px) {
     .organizer-list-container {
         padding: 10px 10px;
         display: flex;
@@ -35,13 +35,7 @@
         flex-wrap: wrap;
     }
 
-    .organizerBlock-container {
-        padding: 24px;
-        width: 20%;
-        margin: auto;
-    }
-
     .organizer-card {
-        width: 5rem;
+        width: 1rem;
     }
 }
