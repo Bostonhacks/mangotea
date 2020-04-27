@@ -1,13 +1,13 @@
-ul {
+ul.nav {
     padding: 20px;
-    background-color: rgb(255, 255, 255);
+    background-color: white;
     padding-left: 30px;
 }
 
 #nav {
   padding-left: 30px;
 }
-  
+
 li a:hover {
   background-color: grey;
 }
