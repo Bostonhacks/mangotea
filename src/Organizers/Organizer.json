@@ -78,25 +78,25 @@
         },
         {
             "name": "Emily Bowen",
-            "committee": "Marketing Committee (Graphic Design)",
+            "committee": "Marketing Committee",
             "link": "https://github.com",
             "image": "turtle.jpg"
         },
         {
             "name": "Hannah Hong",
-            "committee": "Marketing Committee (Graphic Design)",
+            "committee": "Marketing Committee",
             "link": "https://github.com",
             "image": "turtle.jpg"
         },
         {
             "name": "Eveylin Bi",
-            "committee": "Marketing Committee (Graphic Design)",
+            "committee": "Marketing Committee",
             "link": "https://github.com",
             "image": "turtle.jpg"
         },
         {
             "name": "Angela Dong",
-            "committee": "Marketing Committee (Graphic Design)",
+            "committee": "Marketing Committee",
             "link": "https://github.com",
             "image": "turtle.jpg"
         }
@@ -109,7 +109,7 @@
             "image": "turtle.jpg"
         },
         {
-            "name": "Michael Hendrik",
+            "name": "Michael Hendrick",
             "committee": "Tech Committee",
             "link": "https://github.com",
             "image": "turtle.jpg"
